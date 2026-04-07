@@ -35,12 +35,10 @@ Aplicar conceptos avanzados de desarrollo orientado a objetos mediante la implem
 
 ## 📂 Estructura
 
-```
-src/
-├── domain/
-├── patterns/
-├── refactoring/
-└── tests/
+objetos2/
+├── repaso/                  ← Carpeta de repaso y ejercicios prácticos
+├── patrones/                ← Ejercicios y ejemplos de patrones de diseño
+├── refactoring/             ← Ejercicios de refactoring y TDD
 ```
 
 ---
