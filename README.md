@@ -39,15 +39,14 @@ objetos2/
 ├── repaso/                  ← Carpeta de repaso y ejercicios prácticos
 ├── patrones/                ← Ejercicios y ejemplos de patrones de diseño
 ├── refactoring/             ← Ejercicios de refactoring y TDD
-```
 
 ---
 
 ## ▶️ Cómo ejecutar
 
-```bash
+bash
 git clone https://github.com/dulceguez/objetos2.git
-```
+
 
 Abrir el proyecto en Eclipse y ejecutar los tests o clases principales.
 
