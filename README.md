@@ -34,7 +34,7 @@ Aplicar conceptos avanzados de desarrollo orientado a objetos mediante la implem
 ---
 
 ## 📂 Estructura
-
+```plaintext
 objetos2/
 ├── repaso/                  ← Carpeta de repaso y ejercicios prácticos
 ├── patrones/                ← Ejercicios y ejemplos de patrones de diseño
