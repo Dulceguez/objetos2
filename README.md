@@ -1,17 +1,13 @@
 # 🧠 Orientación a Objetos II
 
-Repositorio de prácticas para la materia **Orientación a Objetos II** – Facultad de Informática (UNLP)
+Repositorio de trabajos prácticos de la materia Orientación a Objetos II – Facultad de Informática (UNLP), enfocado en el diseño y construcción de software orientado a objetos a mayor escala.
 
 ---
 
 ## 📌 Objetivo
 
-Aplicar conceptos avanzados de desarrollo orientado a objetos mediante la implementación de:
+Aplicar conceptos avanzados de diseño de software orientado a objetos, incorporando patrones, refactoring, frameworks y testing para construir sistemas modulares, extensibles y mantenibles.
 
-* Patrones de diseño
-* Técnicas de refactoring
-* Testing y TDD
-* Uso de frameworks OO
 
 ---
 
